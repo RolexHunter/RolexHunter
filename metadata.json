@@ -1,0 +1,5 @@
+{
+  "name": "Web File Explorer",
+  "description": "A React and Tailwind CSS web application simulating a file manager interface with features like file browsing, search, sort, and file previews. This is a web-based demonstration and does not access your actual device file system.",
+  "requestFramePermissions": []
+}
